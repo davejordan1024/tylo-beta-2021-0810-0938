@@ -1,0 +1,4 @@
+appx	367
+appy	213
+lastgame	blindsided	21-07-04 15:07:54
+lastsort	by status by name
